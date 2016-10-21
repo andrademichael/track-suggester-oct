@@ -1,0 +1,32 @@
+form {
+  width: 50%;
+  margin: auto;
+}
+
+a {
+  color: lightgreen;
+}
+
+h1 {
+  font-family: sans-serif;
+  margin: auto;
+  text-align: center;
+}
+
+body {
+  background-image: url("../img/background.jpg");
+  background-size: cover;
+  color: white;
+}
+
+label {
+  font-size: 16pt;
+}
+
+.container {
+  padding: 10%;
+}
+
+.help-block {
+  background-color: yellow;
+}
