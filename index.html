@@ -9,20 +9,17 @@
     <title>Track Suggester for Epicodus October 2016 Cohort</title>
   </head>
   <body>
-
-
-    <h1>Track Suggester for Epicodus October 2016 Cohort</h1>
-
     <div class="container">
       <h1>Epicodus Track Suggester™©®(Ɔ)Ⓜ</h1>
       <form id="trackQuizForm">
         <div class="form-group" id="nameBox">
-          <label for="input1">Your name:</label>
-          <input id="input1" class="form-control" type="text">
+          <label for="nameField">Your name:</label>
+          <input id="nameField" class="form-control" type="text">
+          <span id="nameHelp" class="help-block"></span>
         </div>
-        <div class="form-group" id="gullibilityTest">
-          <label for="input2">Your credit card number:</label>
-          <input id="input2" class="form-control" type="password">
+        <div class="form-group" id="creditCardBox">
+          <label for="gullibilityTest">Your credit card number:</label>
+          <input id="gullibilityTest" class="form-control" type="password">
           <span id="creditCardHelp" class="help-block"></span>
         </div>
         <!-- Creativity Question -->
@@ -144,7 +141,7 @@
           </label>
         </div>
 
-        <button type="submit" class="btn">Go!</button>
+        <button type="submit" class="btn btn-warning">Go!</button>
       </form>
 
       <div class="container" id="displayArea">
