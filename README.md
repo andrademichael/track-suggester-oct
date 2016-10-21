@@ -10,7 +10,7 @@ This five-question quiz will test your creativity, risk tolerance, and internet 
 
 ## Setup/Installation Requirements
 
-* Use any modern browser, navigate to https://andrademichael.github.io/track-suggester-oct/
+* Use any modern browser, navigate to https://andrademichael.github.io/track-suggester-oct/index.html
 
 ## Known Bugs
 
